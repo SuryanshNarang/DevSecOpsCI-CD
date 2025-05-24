@@ -5,8 +5,11 @@
 [![Made With](https://img.shields.io/badge/Made%20With-Jenkins%2C%20Docker%2C%20SonarQube%2C%20Trivy-orange)](https://github.com/yourusername/devsecops-pipeline)
 
 A robust and secure **CI/CD pipeline** built using Jenkins that integrates **DevSecOps** best practices — including static code analysis, container vulnerability scanning, and real-time security feedback — for a modern 3-tier application.
+### Output
 
+<br>
 
+![Pipeline Success Screenshot](./Screenshot%202025-05-24%20183530.png)
 
 ---
 
